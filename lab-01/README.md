@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express server
 
-**Name:** [YOUR NAME] · **Registration No:** [YOUR REG NO] · **Section:** [YOUR SECTION]  
+**Name:** VARUKURI ARJUN · **Registration No:** 252U1R1268 · **Section:** CSE-2E (211)  
 **Live link:** [PASTE DEPLOYED URL HERE or write why it couldn't be deployed + add Postman screenshots]
 
 ## How to run
@@ -62,7 +62,7 @@
 - **`main`**: The primary entry point file of the application that gets executed by default (`server.js`).
 - **`scripts`**: Aliases/shortcuts for running command-line tasks (e.g., `npm start` runs `node server.js` and `npm run plain` runs `node plain-server.js`).
 - **`dependencies`**: A list of third-party packages required for the project to run in production (e.g., `express`).
-- **`author`**: The creator or maintainer of the project (`[YOUR NAME]`).
+- **`author`**: The creator or maintainer of the project (`VARUKURI ARJUN`).
 - **`license`**: The legal licensing terms determining how others may use or distribute the code (e.g., `ISC`).
 
 ## Viva notes

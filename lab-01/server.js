@@ -10,8 +10,9 @@ app.get('/', (req, res) => {
 
 app.get('/about', (req, res) => {
   res.status(200).json({
-    name: '[YOUR NAME]',
-    section: '[YOUR SECTION]'
+    name: 'VARUKURI ARJUN',
+    section: 'CSE-2E (211)',
+    Registration_Number: "252U1R1268"
   });
 });
 
